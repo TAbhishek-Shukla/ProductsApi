@@ -1,0 +1,61 @@
+[
+    {
+        "name":"iphone",
+        "price":154,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"smartphone",
+        "price":155,
+        "featured":true,
+        "company":"nokia"
+    },
+    {
+        "name":"windows phone",
+        "price":154,
+        "feature":true,
+        "company":"dell"
+    },
+    {
+        "name":"iphone",
+        "price":154,
+        "feature":true,
+        "company":"mi"
+    },
+
+    {
+        "name":"iphone",
+        "price":200,
+        "company":"apple"
+    },
+    {
+        "name":"smartphone",
+        "price":100,
+        "featured":false,
+        "company":"samsung"
+    },
+    {
+        "name":"smartphone",
+        "price":166,
+        "company":"dell"
+    },
+    {
+        "name":"keypad",
+        "price":100,
+        "featured":false,
+        "company":"samsung"
+    },
+    {
+        "name":"iphone",
+        "price":177,
+        "company":"mi"
+    },
+    {
+        "name":"samrtphone",
+        "price":1544,
+        "featured":true,
+        "company":"apple"
+    }
+
+]
